@@ -1,4 +1,4 @@
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/yykz/main/custom_spider.jar",
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/yykz/main/custom_spider.jar;md5;7aeab34af84bcaa40d31b7890d6bdd0c",
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
