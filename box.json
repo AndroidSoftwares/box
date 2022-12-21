@@ -15,7 +15,6 @@
     {"key":"drpy_js_哔嘀影视","name":"哔嘀影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔嘀影视.js"},
     {"key":"drpy_js_布雷影视","name":"布雷影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷影视.js"},
     {"key":"drpy_js_酷云77","name":"酷云77[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"},
-
     {"key":"drpy_js_DJ音乐","name":"DJ音乐[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/DJ音乐.js","playerType":"2"},
     {"key":"drpy_js_蜻蜓FM","name":"蜻蜓FM[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蜻蜓FM.js","playerType":"2"},
     {"key":"drpy_js_海盗听书","name":"海盗听书[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/海盗听书.js","playerType":"2"},
@@ -25,7 +24,7 @@
     {"key":"drpy_js_斗鱼直播","name":"斗鱼[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/斗鱼直播.js"},
     {"key":"drpy_js_虎牙直播","name":"虎牙[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/虎牙直播.js"},
     {"key":"drpy_js_JustLive","name":"JustLive[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JustLive.js"},
-    {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
+    {"key":"drpy_js_AGE动漫","name":"AGE动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 
 
 
