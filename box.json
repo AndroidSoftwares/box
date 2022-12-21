@@ -15,6 +15,7 @@
     {"key":"drpy_js_哔嘀影视","name":"哔嘀影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/哔嘀影视.js"},
     {"key":"drpy_js_布雷影视","name":"布雷影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷影视.js"},
     {"key":"drpy_js_酷云77","name":"酷云77[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"},
+
     {"key":"drpy_js_DJ音乐","name":"DJ音乐[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/DJ音乐.js","playerType":"2"},
     {"key":"drpy_js_蜻蜓FM","name":"蜻蜓FM[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蜻蜓FM.js","playerType":"2"},
     {"key":"drpy_js_海盗听书","name":"海盗听书[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/海盗听书.js","playerType":"2"},
@@ -26,7 +27,178 @@
     {"key":"drpy_js_JustLive","name":"JustLive[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/JustLive.js"},
     {"key":"drpy_js_AGE动漫","name":"AGE动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 
-
+    {
+      "key": "py_kunyu77",
+      "name": "酷云77",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_kunyu77.py"
+    },{
+      "key": "py_bilivd",
+      "name": "B站",
+      "type": 3,
+      "api": "py_bilivd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilivd.py"
+    },{
+      "key": "py_3qu",
+      "name": "3QU",
+      "type": 3,
+      "api": "py_3qu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_3qu.py"
+    },{
+      "key": "py_cctv",
+      "name": "央视",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"
+    },{
+      "key": "py_czspp",
+      "name": "厂长",
+      "type": 3,
+      "api": "py_czspp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_czspp.py"
+    },{
+      "key": "py_cyys",
+      "name": "创艺",
+      "type": 3,
+      "api": "py_cyys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cyys.py"
+    },{
+      "key": "py_voflix",
+      "name": "Voflix",
+      "type": 3,
+      "api": "py_voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_voflix.py"
+    },{
+      "key": "py_freezb",
+      "name": "体育直播",
+      "type": 3,
+      "api": "py_freezb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_freezb.py"
+    },{
+      "key": "py_bilimd",
+      "name": "B站影视",
+      "type": 3,
+      "api": "py_bilimd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilimd.py"
+    },{
+      "key": "py_qie",
+      "name": "企鹅体育",
+      "type": 3,
+      "api": "py_qie",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_qie.py"
+    },{
+      "key": "py_huya",
+      "name": "虎牙",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_huya.py"
+    }, {
+      "key": "py_douyu",
+      "name": "斗鱼",
+      "type": 3,
+      "api": "py_douyu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_douyu.py"
+    }, {
+      "key": "py_cokemv",
+      "name": "COKE",
+      "type": 3,
+      "api": "py_cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cokemv.py"
+    },{
+      "key": "py_gitcafe",
+      "name": "小纸条",
+      "type": 3,
+      "api": "py_gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_gitcafe.py"
+    }, {
+      "key": "py_yiso",
+      "name": "易搜",
+      "type": 3,
+      "api": "py_yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_yiso.py"
+    }, {
+      "key": "py_zhaozy",
+      "name": "找资源",
+      "type": 3,
+      "api": "py_zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_zhaozy.py"
+    }, {
+      "key": "py_alist",
+      "name": "Alist",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_alist.py"
+    }, {
+      "key": "py_pansou",
+      "name": "盘搜",
+      "type": 3,
+      "api": "py_pansou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_pansou.py"
+    }, {
+      "key": "push_agent",
+      "name": "阿里",
+      "type": 3,
+      "api": "py_ali",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_ali.py"
+    },
 
     {
       "key": "AList",
