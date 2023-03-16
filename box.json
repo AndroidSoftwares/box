@@ -362,7 +362,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "易搜",
@@ -371,7 +371,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "盘搜",
@@ -380,7 +380,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "UP云搜",
@@ -389,7 +389,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
       "key": "找资源",
@@ -398,8 +398,15 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "http://ali.饭太硬.ml/alitoken$$$yingshi$$$abcd1234"
     },
+	{ 
+	   "key": "直播转点播", 
+	   "name": "直播转换", 
+	   "type": 3, 
+	   "api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js", 
+	   "ext": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播.js" 
+	},
     {
       "key": "push_agent",
       "name": "推送",
@@ -407,9 +414,9 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-	{"key": "直播转点播","name": "🎦直播转换","type": 3,"api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js","ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"}
+      "changeable": 0,
+      "ext": "http://ali.饭太硬.ml/alitoken"
+    }
   ],
 
   "lives": [
