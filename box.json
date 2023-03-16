@@ -410,6 +410,7 @@
       "ext": "http://ali.饭太硬.ml/tok"
     }
   ],
+{"key": "直播转点播","name": "🎦直播转换","type": 3,"api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js","ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"},
   "lives": [
     {
       "group": "redirect",
@@ -1924,5 +1925,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/custom_spider.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/custom_spider.jar;md5;08010b785466fd10cde4698c4654f89f"
 }
