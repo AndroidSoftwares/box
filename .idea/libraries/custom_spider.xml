@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="custom_spider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/custom_spider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
