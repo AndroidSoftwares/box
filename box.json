@@ -1671,5 +1671,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/custom_spider.jar;md5;d7e458d4bd3d6355055b2d4efaf4abb2"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/box.jar;md5;547ceb079528c73c10b29d66cdfb1403"
 }
