@@ -1,4 +1,3 @@
-
 {
 "hasUpdate":false,
 "isForce":false,
@@ -6,9 +5,9 @@
 "isIgnorable":false,
 "isShowNotification":false,
 "updateContent":"测试",
-"url":"",
-"apkVersionCode":0,
-"apkVersionName":"",
-"apkSize":"",
+"url":"http://www.baidu.comm",
+"apkVersionCode":10000000000000,
+"apkVersionName":"1.0.0",
+"apkSize":"20MB",
 "hash":""
 }
