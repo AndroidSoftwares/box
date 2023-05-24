@@ -1,6 +1,6 @@
 {
 "hasUpdate":false,
-"isForce":false,
+"isForce":true,
 "isSilent":false,
 "isIgnorable":false,
 "isShowNotification":false,
