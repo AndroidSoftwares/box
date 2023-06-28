@@ -1,13 +1,1 @@
-{
-    "data":{
-        "nav":[
-            {
-                "name":"name",
-                "desc":"url",
-                "url":"url",
-                "type":"url",
-                "pic":"pic"
-            }
-        ]
-    }
-}
+ewogICAgImRhdGEiOnsKICAgICAgICAibmF2IjpbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJuYW1lIjoibmFtZSIsCiAgICAgICAgICAgICAgICAiZGVzYyI6InVybCIsCiAgICAgICAgICAgICAgICAidXJsIjoidXJsIiwKICAgICAgICAgICAgICAgICJ0eXBlIjoidXJsIiwKICAgICAgICAgICAgICAgICJwaWMiOiJwaWMiCiAgICAgICAgICAgIH0KICAgICAgICBdCiAgICB9Cn0=
