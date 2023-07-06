@@ -270,13 +270,24 @@
             "changeable":1
         },
         {
-            "key":"AppYsV2",
-            "name":"AppYsV2",
+            "key":"姐姐",
+            "name":"❤️玩偶姐姐",
             "type":3,
             "api":"csp_AppYsV2",
             "searchable":1,
+            "quickSearch":1,
             "filterable":1,
-            "changeable":1
+            "ext":"http://dytt996.com/api.php/app/"
+        },
+        {
+            "key":"美眉",
+            "name":"❤️玩偶妹妹",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
         },
         {
             "key":"独播库",
