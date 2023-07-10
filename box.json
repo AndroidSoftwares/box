@@ -83,7 +83,7 @@
             "key":"py_xigua",
             "name":"🔥西瓜视频",
             "type":3,
-            "api":"py_cctv",
+            "api":"py_xigua",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
