@@ -81,7 +81,7 @@ class Spider(Spider):
 			req = request.Request(url=url, data=bytes(data, encoding='utf8'),headers=self.header, method='POST')
 			response = request.urlopen(req)
 			urlTxt=response.read().decode('utf-8')
-			videos= self.get_list_videoGroup_json(jsonTxt=urlTxt)
+			videos= self.get_list_videoGroup_json(jsonTxt=urlTxt,idt=extend['order'])
 		else:
 			rsp=self.fetch(url,headers=self.header)
 			urlTxt=rsp.text
@@ -106,6 +106,8 @@ class Spider(Spider):
 		title = aid[0]
 		act=aid[2]
 		logo = aid[3]
+		if len(key)<4:
+			return result
 		Url='https://www.ixigua.com/api/albumv2/details?albumId={0}'.format(key)
 		if len(aid)==5:
 			Url='https://www.ixigua.com/api/videov2/author/new_video_list?to_user_id={0}'.format(key)
@@ -316,7 +318,7 @@ class Spider(Spider):
 				"vod_remarks":remarks
 			})
 		return videos
-	def get_list_videoGroup_json(self,jsonTxt):
+	def get_list_videoGroup_json(self,jsonTxt,idt):
 		result={}
 		jRoot = json.loads(jsonTxt)
 		if jRoot['code']!=200:
@@ -342,10 +344,10 @@ class Spider(Spider):
 			if len(title)==0:
 				continue
 			#标题###地址###演员###封面
-			vod_id="{0}###{1}###{2}###{3}".format(title,url,artist,img)
+			vod_id="{0}###{1}###{2}###{3}".format(idt+title,url,artist,img)
 			videos.append({
 				"vod_id":vod_id,
-				"vod_name":title,
+				"vod_name":idt+title,
 				"vod_pic":img,
 				"vod_remarks":remarks
 			})
@@ -394,16 +396,16 @@ class Spider(Spider):
 		return vodItems
 	config = {
 		"player": {},
-		"filter": {}
+		"filter": {"电影":[{"key": "order","name": "类型","value": [{"n": "免费","v": "free"},{"n": "收费","v": "vip"}]}]}
 	}
 	header = {
-		"Cookie":"s_v_web_id=verify_lev3h43l_rrTPrFDG_ztWQ_4ugg_8WBA_yGVYsXlVyoBh; passport_csrf_token=80e0efe90bc8bd6681a896dd90cd08cc; passport_csrf_token_default=80e0efe90bc8bd6681a896dd90cd08cc; __ac_nonce=0643361890096533c765; __ac_signature=_02B4Z6wo00f01JPVVrAAAIDBcisHPfWA66CT91IAAEDK9840CE-PheNOCgA4VtrFG0-K.KkLmAR5KsI-Xx-6dBXxz.ABWU2OpEd22kF7biwGaVmGR7an4S1heLEU9xpv0ObRSHFHDslR7uL8fb; support_webp=true; support_avif=false; MONITOR_WEB_ID=45c3b6ab-7ad4-4805-b971-5962d1d6909a; ttwid=1%7CCueNR-HU9tGVF30WaiFCjXDxh0FUXoXsZr-cIb9Dogg%7C1681089268%7Cf0eeaa2016a602a277055494954f083e9f7fa8121c5dd1162db9195932fa167b; odin_tt=386a42a5740f9859d4670373fc8c70cf320ea5b227aed04bcc53fde26c233e8c952a8b0ba5f80fd3d46f9663fa595d8c; sid_guard=842b56710f55021912487890e7d5bef3%7C1681089337%7C3024001%7CMon%2C+15-May-2023+01%3A15%3A38+GMT; uid_tt=b7eb5b73cd72bed6d3c2e1e1e8aaa9f3; uid_tt_ss=b7eb5b73cd72bed6d3c2e1e1e8aaa9f3; sid_tt=842b56710f55021912487890e7d5bef3; sessionid=842b56710f55021912487890e7d5bef3; sessionid_ss=842b56710f55021912487890e7d5bef3; sid_ucp_v1=1.0.0-KGQ2YzBlMDFiMzIyMjY0YTIwMDg2MjZmZGQzMTE5MmFlYTYzY2EwMTMKFQjL2cnx9AIQucbNoQYYGCAMOAhABRoCaGwiIDg0MmI1NjcxMGY1NTAyMTkxMjQ4Nzg5MGU3ZDViZWYz; ssid_ucp_v1=1.0.0-KGQ2YzBlMDFiMzIyMjY0YTIwMDg2MjZmZGQzMTE5MmFlYTYzY2EwMTMKFQjL2cnx9AIQucbNoQYYGCAMOAhABRoCaGwiIDg0MmI1NjcxMGY1NTAyMTkxMjQ4Nzg5MGU3ZDViZWYz; csrf_session_id=c58adecac1d20d91d8c61e72ce0c6fdb; ixigua-a-s=3; msToken=St3ptsHkwBjPgGvRWhZfVdhHO_K16vTizxxna17draCvt4ekz6DQXO6c2Ctrp6gOnn9_Abm83-a9URQp5rKb-JIPs4mQPn2fpKlQRY6jLDBWUdLYTePIAACU6cY2fk40; tt_scid=nN3WPItw72gnB5PDiGcHveirXDZ8oDl5n.ihKN583mmZhoe.uLhFpy3JOL8wrsQO0ed1",
+		"Cookie":"MONITOR_WEB_ID=45c3b6ab-7ad4-4805-b971-5962d1d6909a; s_v_web_id=verify_lev3h43l_rrTPrFDG_ztWQ_4ugg_8WBA_yGVYsXlVyoBh; passport_csrf_token=80e0efe90bc8bd6681a896dd90cd08cc; passport_csrf_token_default=80e0efe90bc8bd6681a896dd90cd08cc; sid_guard=54266b282adf9c8dbb69f9cc37342191%7C1678002757%7C3024000%7CSun%2C+09-Apr-2023+07%3A52%3A37+GMT; uid_tt=3c0e8cb286ad3de4d95252bb7d5e0fc6; uid_tt_ss=3c0e8cb286ad3de4d95252bb7d5e0fc6; sid_tt=54266b282adf9c8dbb69f9cc37342191; sessionid=54266b282adf9c8dbb69f9cc37342191; sessionid_ss=54266b282adf9c8dbb69f9cc37342191; sid_ucp_v1=1.0.0-KDQ5MzZiMjFhZjBkODU1MjRiZDMxNThkMzhlNDExYWUwMTY5NTNlZTkKFQjL2cnx9AIQxZSRoAYYGCAMOAhABRoCaGwiIDU0MjY2YjI4MmFkZjljOGRiYjY5ZjljYzM3MzQyMTkx; ssid_ucp_v1=1.0.0-KDQ5MzZiMjFhZjBkODU1MjRiZDMxNThkMzhlNDExYWUwMTY5NTNlZTkKFQjL2cnx9AIQxZSRoAYYGCAMOAhABRoCaGwiIDU0MjY2YjI4MmFkZjljOGRiYjY5ZjljYzM3MzQyMTkx; odin_tt=b9c6f308ba52ea67e84bbbb1024c5071bd43a8f9d3497ff8a336c5e8817236caad3e164515580da83f5a1e4a06a3fab0; __ac_signature=_02B4Z6wo00f01Ktz.lQAAIDBSo2v2RT8BmSrUfrAAE7L2ueb1h-CroqOkPYbaRIeEXRo4R54VWHBZuGMQa5lzlf.ijuXpSsSFdusaGnHj5Ro3JyJCPMcTlPk9Fzj0RPKPk3LCZJ1GmV34nYRe4; support_webp=true; support_avif=false; csrf_session_id=275ef26f7fdf33c95da9f03b9ac611a5; tt_scid=gUK2TRTHs4pYCo-hadXfF.Wjghm2O-.0Cyiy.DGfxytfVrUY-KptBB4prgcFsqqD97d6; ttwid=1%7CCueNR-HU9tGVF30WaiFCjXDxh0FUXoXsZr-cIb9Dogg%7C1679469911%7C2162c32be8a2a1eb373391fcb0d61ec0f684fc7f156dce997de6a4625c0608e8; msToken=e-9KuEl6xQfyp-QconAVI1oSUsTWd_zCP31LrWs8QzVZqlwb4q9PN2gVGAKcb3TWHGauqavlSZ5RNkdCSzHjRyUfrPAawZ5LKXDNZQFkVN6Oi_lnfAiSDPgs4q8Kf6Y7; ixigua-a-s=3",
 		"Referer": 'https://www.ixigua.com/cinema/filter/dianshiju/',
 		'User-Agent':'User-Agent: Mozilla%2F5.0+(Windows+NT+10.0%3B+WOW64)+AppleWebKit%2F537.36+(KHTML%2C+like+Gecko)+Chrome%2F63.0.3239.132+Safari%2F537.36',
 		'Host': 'www.ixigua.com',
 		'Accept': 'application/json, text/plain, */*',
-		'x-secsdk-csrf-token': '0001000000017b593ba6251b18bd7bce2753042917bb36e534867b9606317584c00b0ae836c61754314b7365128e',
-		'tt-anti-token': 'oDr7A3PDDFq4pWzk-707faf92a9e3040f5c6ed4284d53b05b7091221852c0e9d32bca9fcfe5035225',
+		'x-secsdk-csrf-token': '000100000001db13c92a327d9db47823c4f782dc02c349c214e04ea5b3bc8054eec1bd6f816b174eacf8235b8e44',
+		'tt-anti-token': 'iL5itcx8Te-7529d0098c507a2182a34a68b46aaac6cb20382728cbc3083d40028ed01f5c8a',
 		'content-type': 'application/json'	
 	}
 
