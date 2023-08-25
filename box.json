@@ -19,27 +19,7 @@
       "changeable": 0,
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/alist.json"
     },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
-    },
-    {
-      "key": "bili_open",
-      "name": "哔哩(open)",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "categories": "沙雕动画#沙雕穿越#沙雕",
-        "cookie": ""
-      }
-    },
+
     {
       "key": "哔哩",
       "name": "哔哩",
@@ -57,55 +37,7 @@
         "cookie": ""
       }
     },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
-    },
-    {
-      "key": "廠長",
-      "name": "廠長",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
+
     {
       "key": "量子",
       "name": "量子",
