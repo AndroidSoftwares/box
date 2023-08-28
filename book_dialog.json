@@ -3,7 +3,7 @@
         {
             "name":"name",
             "pic":"pic",
-            "show":true,
+            "show":false,
             "oneTime":true,
             "type":"type",
             "url":"url"
