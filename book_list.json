@@ -1,8 +1,32 @@
 [
     {
-        "name":"name2",
+        "name":"XIU2精品书源(58)",
         "show":true,
-        "type":"type",
-        "url":"url"
+        "type":"book",
+        "url":"https://jihulab.com/aoaostar/legado/-/raw/release/cache/71e56d4f1d8f1bff61fdd3582ef7513600a9e108.json"
+    }, 
+    {
+        "name":"四月天合集书源(253)",
+        "show":true,
+        "type":"book",
+        "url":"https://jihulab.com/aoaostar/legado/-/raw/release/cache/327db39319101b901b04a78e38467e231afadbba.json"
+    }, 
+    {
+        "name":"水幽临渊合集书源 ",
+        "show":true,
+        "type":"book",
+        "url":"https://jihulab.com/aoaostar/legado/-/raw/release/cache/21e5a4bef65f07d76620c7b7b4ba707eba4505ac.json"
+    }, 
+    {
+        "name":"namofree的书源",
+        "show":true,
+        "type":"book",
+        "url":"https://jihulab.com/aoaostar/legado/-/raw/release/cache/6c35d84798ddbf4aad3fe3f0fd6cec53dd788be8.json"
+    }, 
+    {
+        "name":"一程的书源合集",
+        "show":true,
+        "type":"book",
+        "url":"https://jihulab.com/aoaostar/legado/-/raw/release/cache/1b8256c78b385543b5e8aa6a0d7693c76f8e60d4.json"
     }
 ]
