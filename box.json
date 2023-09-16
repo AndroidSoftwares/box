@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://github.com/AndroidSoftwares/box/blob/main/custom_spider.jar;md5;c0461cd79a0b6f1561b7831a8ad4c37c",
+  "spider": "https://ghproxy.com/https://github.com/AndroidSoftwares/box/blob/main/custom_spider.jar;md5;3a162a7f9911cb7ba17ae9e7494f7d4b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -20,8 +20,8 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/json/alist.json"
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
+      "key": "樱花",
+      "name": "樱花",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
