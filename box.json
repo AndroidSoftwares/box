@@ -17,7 +17,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.kgithub.com/AndroidSoftwares/box/main/json/alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/json/alist.json"
     },
     {
       "key": "櫻花",
