@@ -1,0 +1,11 @@
+{
+  "versionCode": 1000,
+  "versionName": "1.0.0",
+  "title": "标题",
+  "desc": "优化",
+  "cancel": "取消",
+  "confirm": "确定",
+  "canCancel": true,
+  "app": false,
+  "url": "https://www.baidu.com"
+}
