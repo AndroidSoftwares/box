@@ -1,5 +1,5 @@
 {
-  "versionCode": 1000,
+  "versionCode": 100,
   "versionName": "1.0.0",
   "title": "标题",
   "desc": "优化",
@@ -7,5 +7,19 @@
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://www.baidu.com"
+  "url": "https://www.baidu.com",
+  "cateList": [
+    {
+      "title": "热搜神器",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN014XTzh12C4PlUrCXJu_!!913168420.png",
+      "url": "https://www.enlightent.cn/research/",
+      "app": true
+    },
+    {
+      "title": "阅读排行",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01UNXJXd2C4Ploj129P_!!913168420.png",
+      "url": "https://read.douban.com/charts",
+      "app": true
+    }
+  ]
 }
