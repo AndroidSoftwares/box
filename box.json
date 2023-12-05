@@ -120,6 +120,10 @@
       "changeable": 0,
       "ext": "./json/alist.json"
     },
+{"key":"drpy_js_南瓜影视","name":"影视 | 南瓜影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
+{"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
+{"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
+
 {"key":"drpy_js_555影视[飞]","name":"起飞 | 555影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
 {"key":"drpy_js_素白白","name":"影视 | 素白白[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
 {"key":"drpy_js_低端","name":"低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
