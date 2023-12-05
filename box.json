@@ -13,7 +13,7 @@
     },
     {
       "key": "玩偶",
-      "name": "玩偶",
+      "name": "玩偶[阿里]",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -140,7 +140,7 @@
 
     {
       "key": "七夜",
-      "name": "七夜",
+      "name": "七夜[阿里]",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -148,47 +148,47 @@
     },
     {
       "key": "易搜",
-      "name": "易搜",
+      "name": "易搜[阿里]",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "雲搜",
-      "name": "雲搜",
+      "key": "云搜",
+      "name": "云搜[阿里]",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "盤搜",
-      "name": "盤搜",
+      "key": "盘搜",
+      "name": "盘搜[阿里]",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "紙條搜",
-      "name": "紙條搜",
+      "key": "纸条",
+      "name": "纸条[阿里]",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "盤搜索",
-      "name": "盤搜索",
+      "key": "盘搜",
+      "name": "盘搜[阿里]",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "找資源",
-      "name": "找資源",
+      "key": "找资源",
+      "name": "找资源[阿里]",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
