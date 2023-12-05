@@ -40,14 +40,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "樱花动漫",
-      "name": "樱花动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
-    },
+
     {
       "key": "动漫巴士",
       "name": "动漫巴士",
@@ -107,11 +100,7 @@
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bookan_open.js",
       "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "categories": "短剧#沙雕动画#沙雕穿越#沙雕",
-        "cookie": ""
-      }
+      "changeable": 0
     },
     {
       "key": "酷狗",
