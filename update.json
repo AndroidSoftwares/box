@@ -1,34 +1,49 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.0",
-  "title": "标题",
-  "desc": "优化",
+  "versionCode": 1008,
+  "versionName": "1.0.8",
+  "title": "新版来了",
+  "desc": "同步并优化各项UI\n听书支持快进快退\n听书支持跳过片头片尾\n听书长按片头片尾重置\n增强浏览器广告屏蔽\n浏览器增加自动嗅探媒体播放\n新增媒体播放管理\n增强Media3播放器(滑动快进/长按倍速/支持切换音频字幕/长按字幕选择本地字幕库/双指缩放/其他功能)\n其他优化",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
-  "app": false,
-  "url": "https://www.baidu.com",
+  "app": true,
+  "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
+  "t": "",
   "cateList": [
     {
       "title": "热搜神器",
-      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN014XTzh12C4PlUrCXJu_!!913168420.png",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
       "url": "https://vt.quark.cn/blm/hot-board-599/tab?app=news",
       "app": true,
       "type": "web"
     },
     {
-      "title": "阅读排行",
-      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01UNXJXd2C4Ploj129P_!!913168420.png",
-      "url": "https://read.douban.com/charts",
+      "title": "小说搜",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01BT1hme2C4PmT66fs0_!!913168420.png",
+      "url": "https://owllook2.yueing.org/",
       "app": true,
       "type": "web"
     },
     {
-      "title": "导入书源",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
-      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/1b8256c78b385543b5e8aa6a0d7693c76f8e60d4.json",
-      "app": false,
-      "type": "book"
+      "title": "影视搜",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+      "url": "https://www.aikanbot.com/",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "iptv搜",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
+      "url": "https://www.foodieguide.com/iptvsearch/",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "优惠搜",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01g9sN4p2C4PmRYqr6C_!!913168420.png",
+      "url": "https://quan.458962.xyz/?cid=yqhxAmc#/index/home",
+      "app": true,
+      "type": "web"
     },
     {
       "title": "每日红包",
@@ -48,6 +63,41 @@
       "title": "下载新版",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01nPIg4U2C4Plqb6dLJ_!!913168420.png",
       "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "阅读排行",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01UNXJXd2C4Ploj129P_!!913168420.png",
+      "url": "https://read.douban.com/charts",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "畅销书",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
+      "url": "https://quan.458962.xyz/?cid=yqhxAmc#/search?keyword=%E7%95%85%E9%94%80%E4%B9%A6",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "小说书源",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
+      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/1b8256c78b385543b5e8aa6a0d7693c76f8e60d4.json",
+      "app": false,
+      "type": "book"
+    },
+    {
+      "title": "听书书源",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
+      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/fc28a47b1f7708cec14b586981f4be76e30d20c8.json",
+      "app": false,
+      "type": "book"
+    },
+    {
+      "title": "在线书源",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
+      "url": "https://yuedu.miaogongzi.net/gx.html",
       "app": true,
       "type": "web"
     }
