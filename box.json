@@ -120,6 +120,15 @@
       "changeable": 0,
       "ext": "./json/alist.json"
     },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+    },
 {"key":"drpy_js_南瓜影视","name":"南瓜影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key":"drpy_js_素白白","name":"素白白[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/素白白.js"},
 {"key":"drpy_js_低端","name":"低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
