@@ -6,6 +6,10 @@
       "server": "https://pan.ecve.cn"
     },
     {
+      "name": "mediy",
+      "server": "https://pan.mediy.cn/"
+    },    
+    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
     },
