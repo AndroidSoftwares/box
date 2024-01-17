@@ -1,19 +1,19 @@
 {
-  "versionCode": 1008,
-  "versionName": "1.0.8",
-  "title": "新版来了",
-  "desc": "",
+  "versionCode": 1010,
+  "versionName": "1.1.0",
+  "title": "新版来了v1.1.0",
+  "desc": "升级依赖库\n适配Android14\n听书支持快进快退\n听书支持跳过片头片尾\n听书长按片头片尾重置\n修复浏览器闪退BUG\n浏览器默认搜索引擎改为必应\n增强浏览器广告屏蔽\n浏览器增加自动嗅探媒体播放\n新增媒体播放管理\n增强Media3播放器(滑动快进/长按倍速/支持切换音频字幕/长按字幕选择本地字幕库/双指缩放/其他功能)\n其他优化",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
-  "app": true,
-  "url": "",
-  "t": "",
+  "app": false,
+  "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
+  "t": "/ CZ0001 weKRW7SCENv/  ￥K78ajA2cVrVeyMvs￥",
   "cateList": [
     {
-      "title": "热搜神器",
+      "title": "百度热搜",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
-      "url": "https://vt.quark.cn/blm/hot-board-599/tab?app=news",
+      "url": "https://top.baidu.com/board",
       "app": true,
       "type": "web"
     },
@@ -53,11 +53,25 @@
       "type": "app"
     },
     {
-      "title": "媒体播放",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01xykJYj2C4PmQwiezg_!!913168420.png",
-      "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
+      "title": "薅羊毛",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01QNsmwl2C4Plpe5Dzb_!!913168420.png",
+      "url": "https://note.youdao.com/s/1GhpGzr5",
       "app": true,
-      "type": "media3"
+      "type": "web"
+    },
+    {
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/lshpQaN%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "app": true,
+      "type": "app"
+    },
+    {
+      "title": "淘宝红包",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
+      "url": "taobao://m.tb.cn/h.5Kww7SS",
+      "app": true,
+      "type": "app"
     },
     {
       "title": "下载新版",
