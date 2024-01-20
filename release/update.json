@@ -1,16 +1,32 @@
 {
   "cateList": [
     {
-      "title": "夸克热搜",
-      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN014XTzh12C4PlUrCXJu_!!913168420.png",
-      "url": "https://vt.quark.cn/blm/hot-board-599/tab?app=news",
-      "app": true
+      "title": "百度热搜",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+      "url": "https://top.baidu.com/board",
+      "app": true,
+      "type": "web"
     },
     {
       "title": "每日红包",
       "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Mm1QDn2C4PmCI3gGj_!!913168420.png",
       "url": "alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2Falipay-red-qrcode%2Fshared.html%3Fchannel%3Dsearch_pwd%26shareId%3D2088802168454165%26token%3D11w14450xdwwhdaiakzxo61%26campStr%3DkPPFvOxaCL3f85TiKss2wsBZgIjulHjG%26sign%3DqsiVOoa7TuphryWxyBdONXsMTnE3jiIBvWeUs3yV1sw%3D%26chInfo%3DDingtalk%26c_stype%3Dsearch_pwd",
-      "app": false
+      "app": false,
+      "type": "app"
+    },
+    {
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/lshpQaN%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "app": true,
+      "type": "app"
+    },
+    {
+      "title": "淘宝红包",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
+      "url": "taobao://m.tb.cn/h.5Kww7SS",
+      "app": true,
+      "type": "app"
     }
   ]
 }
