@@ -22,9 +22,9 @@
       "type": "app"
     },
     {
-      "title": "淘宝红包",
+      "title": "淘宝搜券",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.5Kww7SS",
+      "url": "taobao://ai.m.taobao.com/index.html?pid=mm_43453386_2079400019_115618850038",
       "app": true,
       "type": "app"
     }
