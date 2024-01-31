@@ -1,14 +1,15 @@
 {
-  "versionCode": 1010,
-  "versionName": "1.1.0",
-  "title": "新版来了v1.1.0",
-  "desc": "升级依赖库\n适配Android14\n听书支持快进快退\n听书支持跳过片头片尾\n听书长按片头片尾重置\n修复浏览器闪退BUG\n浏览器默认搜索引擎改为必应\n增强浏览器广告屏蔽\n浏览器增加自动嗅探媒体播放\n新增媒体播放管理\n增强Media3播放器(滑动快进/长按倍速/支持切换音频字幕/长按字幕选择本地字幕库/双指缩放/其他功能)\n其他优化",
+  "versionCode": 1015,
+  "versionName": "1.1.5",
+  "title": "新版来了v1.1.5",
+  "desc": "同步优化\n看漫画请先选择布局->选择漫画布局\n如果没有漫画->选择加号新建->点击右上角恢复->选择漫画即可\n最后选择菜单设置 开启【隐藏状态栏/隐藏导航栏/扩展到刘海屏】这样就能全屏观看了\n支持WebDav视频网盘挂载\n支持批量选择播放,支持内置字幕/内置音频选择\n播放长按图标字幕支持选择本地字幕\n增加缓冲时间配置,服务于WebDav媒体播放 减少播放卡顿\nWebDav加载媒体加载数据增加进度\n其他优化",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
   "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
-  "t": "/ CZ0001 weKRW7SCENv/  ￥K78ajA2cVrVeyMvs￥",
+  "t": "/ CZ0001 KRGOW8MReuj/  ￥K78ajA2cVrVeyMvs￥",
+
   "cateList": [
     {
       "title": "百度热搜",
@@ -67,9 +68,9 @@
       "type": "app"
     },
     {
-      "title": "淘宝红包",
+      "title": "淘宝搜券",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.5Kww7SS",
+      "url": "taobao://ai.m.taobao.com/index.html?pid=mm_43453386_2079400019_115527100113",
       "app": true,
       "type": "app"
     },
