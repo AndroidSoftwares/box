@@ -1,14 +1,14 @@
 {
-  "versionCode": 1015,
-  "versionName": "1.1.5",
-  "title": "新版来了v1.1.5",
-  "desc": "同步优化\n看漫画请先选择布局->选择漫画布局\n如果没有漫画->选择加号新建->点击右上角恢复->选择漫画即可\n最后选择菜单设置 开启【隐藏状态栏/隐藏导航栏/扩展到刘海屏】这样就能全屏观看了\n支持WebDav视频网盘挂载\n支持批量选择播放,支持内置字幕/内置音频选择\n播放长按图标字幕支持选择本地字幕\n增加缓冲时间配置,服务于WebDav媒体播放 减少播放卡顿\nWebDav加载媒体加载数据增加进度\n其他优化",
+  "versionCode": 1016,
+  "versionName": "1.1.6",
+  "title": "新版来了v1.1.6",
+  "desc": "1同步优化\n2看漫画请先选择布局->选择漫画布局\n3如果没有漫画->选择加号新建->点击右上角恢复->选择漫画即可\n4最后选择菜单设置 开启【隐藏状态栏/隐藏导航栏/扩展到刘海屏】这样就能全屏观看了\n5支持WebDav视频网盘挂载\n6支持批量选择播放,支持内置字幕/内置音频选择\n7播放长按图标字幕支持选择本地字幕\n8增加缓冲时间配置,服务于WebDav媒体播放 减少播放卡顿\n9WebDav加载媒体加载数据增加进度\n11发现页面长按聚搜\n12发现页面增加显示全部分类\n13其他优化",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
   "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
-  "t": "/ CZ0001 KRGOW8MReuj/  ￥K78ajA2cVrVeyMvs￥",
+  "t": "",
 
   "cateList": [
     {
@@ -68,7 +68,7 @@
       "type": "app"
     },
     {
-      "title": "淘宝搜券",
+      "title": "爱淘宝",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
       "url": "taobao://ai.m.taobao.com/index.html?pid=mm_43453386_2079400019_115527100113",
       "app": true,
@@ -113,6 +113,13 @@
       "title": "在线书源",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
       "url": "https://yuedu.miaogongzi.net/gx.html",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "在线书源",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
+      "url": "https://legado.aoaostar.com/",
       "app": true,
       "type": "web"
     }
