@@ -1,4 +1,3 @@
-
 {
   "versionCode": 1021,
   "versionName": "1.1.1",
@@ -63,18 +62,18 @@
       "type": "web"
     },
     {
-      "title": "京东精选",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAOUJK1olXDYDZBoCUBVIMzZNXhpXVhgcDVpCVFRMVnBaRQcLDlZRAAMoUAMJaDtMWUVzBnF0ACcPYABWAxJTTjt9HnUGFigtWC9rXz8WQwRACU8dDRsBVUVWUzlcYw4ZBFhHZAAcViNJYmpBeDlrVUVSPSkAQA5rQykEF2sQXQcDXVtYCEwUM28JGlkdXgMEUVltOEsUMyRmGmsXXQcDU1deCUoQM28OGlwcWgEHUVtZDksnBG8BK4y47NCN64rkpJ29iri4oWslbQUyU15UHE1lQj0cHSklbQQyV25tCkoWB2Y4K2sl%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "title": "吃喝玩乐",
+      "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081152_7799",
+      "url": "https://2jjdetbp.jutuike.cn/#/?code=2JJDeTbp",
       "app": true,
-      "type": "app"
+      "type": "web"
     },
     {
-      "title": "爱淘宝",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taobao://ai.m.taobao.com/index.html?pid=mm_43453386_2079400019_115527100113",
+      "title": "最低九折",
+      "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1629942327_436701",
+      "url": "https://quan.458962.xyz/?cid=yqhxAmc&tmp=ks_prepaid_recharge&code=yqhxAmc&hdk_pdd=1&ks=1&sp=#/sp",
       "app": true,
-      "type": "app"
+      "type": "web"
     },
     {
       "title": "下载新版",
