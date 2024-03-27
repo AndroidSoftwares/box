@@ -2,20 +2,27 @@
   "versionCode": 1000,
   "versionName": "1.0.0",
   "title": "新版来了v1.0.0",
-  "desc": "1同步优化",
+  "desc": "优化",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
-  "t": "38￥ CZ3460 Uw1fWoCHs2L￥  ￥SE6u10kvbqUqa0Rr￥",
+  "url": "",
+  "t": "",
   "showAd": true,
   "showReadAd": false,
   "cateList": [
     {
-      "title": "百度热搜",
+      "title": "爱看",
+      "pic": "https://v.ikanbot.com/resources/logo.svg",
+      "url": "https://v.ikanbot.com/",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "新6V",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
-      "url": "https://top.baidu.com/board",
+      "url": "https://www.66s6.net/",
       "app": true,
       "type": "web"
     }
