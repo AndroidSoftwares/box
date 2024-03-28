@@ -25,6 +25,13 @@
       "url": "https://www.66s6.net/",
       "app": true,
       "type": "web"
+    },
+    {
+      "title": "播放链接",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01ICXCxi2C4PocSUaNd_!!913168420.png",
+      "url": "inputUrl",
+      "app": true,
+      "type": "inputUrl"
     }
   ]
 }
