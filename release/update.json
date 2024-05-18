@@ -15,9 +15,9 @@
       "type": "app"
     },
     {
-      "title": "京东精选",
+      "title": "京东羊毛",
       "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAOUJK1olXDYDZBoCUBVIMzZNXhpXVhgcDVpCVFRMVnBaRQcLDlZRAAMoUAMJaDtMWUVzBnF0ACcPYABWAxJTTjt9HnUGFigtWC9rXz8WQwRACU8dDRsBVUVWUzlcYw4ZBFhHZAAcViNJYmpBeDlrVUVSPSkAQA5rQykEF2sQXQcDXVtYCEwUM28JGlkdXgMEUVltOEsUMyRmGmsXXQcDU1deCUoQM28OGlwcWgEHUVtZDksnBG8BK4y47NCN64rkpJ29iri4oWslbQUyU15UHE1lQj0cHSklbQQyV25tCkoWB2Y4K2sl%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/UiOUp3z%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
       "app": true,
       "type": "app"
     },
