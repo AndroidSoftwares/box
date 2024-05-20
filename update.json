@@ -55,18 +55,18 @@
       "type": "app"
     },
     {
-      "title": "薅羊毛",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01QNsmwl2C4Plpe5Dzb_!!913168420.png",
-      "url": "https://note.youdao.com/s/1GhpGzr5",
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/UsPmDCD%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
       "app": true,
-      "type": "web"
+      "type": "app"
     },
     {
-      "title": "吃喝玩乐",
-      "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081152_7799",
-      "url": "https://2jjdetbp.jutuike.cn/#/?code=2JJDeTbp",
+      "title": "淘宝红包",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
+      "url": "taobao://m.tb.cn/h.gdWjNGz",
       "app": true,
-      "type": "web"
+      "type": "app"
     },
     {
       "title": "0元购",
