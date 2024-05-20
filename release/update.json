@@ -24,7 +24,7 @@
     {
       "title": "淘宝红包",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taoabo://m.tb.cn/h.gdWjNGz",
+      "url": "taobao://m.tb.cn/h.gdWjNGz",
       "app": true,
       "type": "app"
     }
