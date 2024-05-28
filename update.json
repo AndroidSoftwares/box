@@ -11,10 +11,10 @@
   "t": "/ CZ0001 jsUzWwd1R8J/  ！Z88yhD6XKiDiPrUL！",
   "showAd": true,
   "showReadAd": false,
-    "dialog":    {
-      "title": "淘宝红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01GEAe7E2C4Ppf0ek45_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.g2D7UPB",
+  "dialog":    {
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01QpN5yn2C4Ppn6truM_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/kqOz8WH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
       "app": true,
       "type": "app"
     },
@@ -169,7 +169,7 @@
         {
       "title": "京东红包",
       "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/kiOdrHy%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/kqOz8WH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
       "app": true,
       "type": "app"
     },
