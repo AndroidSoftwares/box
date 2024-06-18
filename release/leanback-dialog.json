@@ -1,0 +1,9 @@
+{
+  "desc": "test",
+  "cancel": "",
+  "confirm": "确定",
+  "showOneTime": false,
+  "isQrCode": true,
+  "url": "https://www.baidu.com/",
+  "show": false
+}
