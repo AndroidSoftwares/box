@@ -8,7 +8,7 @@
   "canCancel": true,
   "app": false,
   "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
-  "t": "/ CZ0001 3IGe3aQnYe8/  ￥R3PSG6jtP3PaBR2J￥",
+  "t": "/ CZ0001 3Npa3Zs9TCJ/ /！O99cE1Oj9M4Jt2Hf",
   "showAd": true,
   "showReadAd": false,
   "cateList": [
@@ -158,20 +158,6 @@
       "url": "https://www.xb6v.com/",
       "app": true,
       "type": "web"
-    },
-        {
-      "title": "京东红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/kqOz8WH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
-      "app": true,
-      "type": "app"
-    },
-    {
-      "title": "淘宝红包",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.g2D7UPB",
-      "app": true,
-      "type": "app"
     }
   ]
 }
