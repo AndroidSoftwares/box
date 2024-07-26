@@ -1,14 +1,14 @@
 {
-  "versionCode": 1028,
-  "versionName": "1.1.1",
-  "title": "新版来了v1.2.8",
-  "desc": "1同步优化\n2看漫画请先选择布局->选择漫画布局\n3如果没有漫画->选择加号新建->点击右上角恢复->选择漫画即可\n4最后选择菜单设置 开启【隐藏状态栏/隐藏导航栏/扩展到刘海屏】这样就能全屏观看了\n5支持WebDav视频网盘挂载\n6支持批量选择播放,支持内置字幕/内置音频选择\n7播放长按图标字幕支持选择本地字幕\n8增加缓冲时间配置,服务于WebDav媒体播放 减少播放卡顿\n9WebDav加载媒体加载数据增加进度\n11发现页面长按聚搜\n12发现页面增加显示全部分类\n13其他优化",
+  "versionCode": 1029,
+  "versionName": "1.2.9",
+  "title": "新版来了v1.2.9",
+  "desc": "1新增Alist本地服务使用最新版本3.36.0前往我的里面开启\n2开启本地服务添加云存储使用内置浏览器管理或者使用本软件的网盘挂载功能播放网盘内影音",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
   "url": "https://pan.quark.cn/s/69bff3f18954",
-  "t": "/ CZ0001 Pu3N31UfpJo/  ￥K4uV22rFb3Mqwcln￥",
+  "t": "/ CZ0001 GurT3Xnzfd4/ ￥SBAbLEf5d5agZr1T￥",
   "showAd": true,
   "showReadAd": false,
   "cateList": [
@@ -78,7 +78,7 @@
     {
       "title": "下载新版",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01nPIg4U2C4Plqb6dLJ_!!913168420.png",
-      "url": "https://www.123pan.com/s/UzXRVv-np74H.html",
+      "url": "https://pan.quark.cn/s/69bff3f18954",
       "app": true,
       "type": "web"
     },
