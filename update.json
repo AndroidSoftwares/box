@@ -13,9 +13,9 @@
   "showReadAd": false,
   "cateList": [
     {
-      "title": "百度热搜",
+      "title": "意见反馈",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
-      "url": "https://top.baidu.com/board",
+      "url": "https://support.qq.com/products/663282",
       "app": true,
       "type": "web"
     },
