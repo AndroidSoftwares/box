@@ -1,8 +1,7 @@
 {
   "code": 46,
   "name": "0.4.6",
-  "desc": "新增Alist服务\n本地管理Alist,挂载Alist支持的所有云存储\n如果挂载webdav，开启服务后后缀/dav
-如(http://192.168.5.18:5244/dav)\n默认账号 admin 密码 123456",
+  "desc": "新增Alist服务\n本地管理Alist,挂载Alist支持的所有云存储\n如果挂载webdav，开启服务后后缀/dav如(http://192.168.5.18:5244/dav)\n默认账号 admin 密码 123456",
   "downloadUrl": "https://pan.quark.cn/s/a16e4bd277a9"
 
 }
