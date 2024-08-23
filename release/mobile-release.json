@@ -1,7 +1,7 @@
 {
-  "code": 47,
-  "name": "0.4.7",
-  "desc": "本地支持挂载 Alist、Webdav\n通过本应用开启Alist服务\n(注意：挂载ip尽量用127.0.0.1避免切换网络导致无法访问)\nAlist       :  http://127.0.0.1:5244\nWebdav:  http://127.0.0.1:5244/dav",
+  "code": 48,
+  "name": "0.4.8",
+  "desc": "本地支持挂载 Alist、Webdav\n通过本应用开启Alist服务\n(注意：挂载ip尽量用127.0.0.1避免切换网络导致无法访问)\nAlist       :  http://127.0.0.1:5244\nWebdav:  http://127.0.0.1:5244/dav\n引入nextlib\n修复播放黑屏\n断更",
   "downloadUrl": "https://pan.quark.cn/s/a16e4bd277a9"
 
 }
