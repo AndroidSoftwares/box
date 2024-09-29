@@ -1,17 +1,58 @@
 {
   "versionCode": 10,
   "versionName": "1",
-  "title": "新版来了v1",
+  "title": "",
   "desc": "",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://pan.quark.cn/s/fa1f5a0d52c8",
+  "url": "",
   "t": "",
   "showAd": true,
-  "showReadAd": false,
+  "showReadAd": true,
   "cateList": [
-   
+    {
+      "title": "默认分类",
+      "show": true,
+      "pic": "",
+      "url": "",
+      "app": true,
+      "type": "",
+      "cateList": [
+        {
+          "title": "资源管理",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01IQUY3a2C4ProxPjoI_!!913168420.png",
+          "url": "",
+          "app": true,
+          "show": true,
+          "type": "sourceManager"
+        },
+        {
+          "title": "版本更新",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rogIc22C4PrjVEFYI_!!913168420.png",
+          "url": "https://pan.quark.cn/s/fa1f5a0d52c8",
+          "app": true,
+          "show": true,
+          "type": "web"
+        },
+        {
+          "title": "意见反馈",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019B5bdX2C4PrqmBs2F_!!913168420.png",
+          "url": "https://support.qq.com/products/669157",
+          "app": true,
+          "show": true,
+          "type": "web"
+        },
+        {
+          "title": "支持我们",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01fuToE32C4PrqmBXFZ_!!913168420.png",
+          "url": "",
+          "app": true,
+          "show": true,
+          "type": "support"
+        }
+      ]
+    }
   ]
 }
