@@ -1,5 +1,11 @@
 { 
-
+  "dialog":    {
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01IS88D92C4PsBlpsbG_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/C6QvrHs%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "app": false,
+      "type": "app"
+    },
   "cateList": [
     {
       "title": "意见反馈",
