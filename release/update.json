@@ -30,6 +30,14 @@
       "app": false,
       "type": "app"
     },
+    
+    {
+      "title": "千万神券",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01jcm66V2C4PsCeeFYC_!!913168420.png",
+      "url": "pinduoduo://com.xunmeng.pinduoduo/duo_theme_activity.html?__page=duo_tenmillion_coupon&_pdd_fs=1&pid=1984046_236684576&tmcConfigId=771&customParameters=%7B%22uid%22%3A%22AAHi4hhoACZ_wldyykMmBj6d%22%2C%22sid%22%3A%22486945_111222%22%7D&cpsSign=TMC_241014_1984046_236684576_96220b1ceffbc95ad5b5ab4e6d2d29fb&_x_ddjb_act=%7B%22st%22%3A%22128%22%7D&duoduo_type=2",
+      "app": false,
+      "type": "app"
+    },
     {
       "title": "吃喝玩乐",
       "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081152_7799",
