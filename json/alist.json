@@ -20,6 +20,17 @@
     {
       "name": "一只魚",
       "server": "https://vtok.pp.ua/"
+    },
+    {
+      "name": "範本",
+      "server": "http://127.0.0.1:5244",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "admin",
+        "password": "123456"
+      }
+      ]
     }
   ]
 }
