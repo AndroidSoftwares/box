@@ -1,23 +1,16 @@
 {
-  "versionCode": 1029,
-  "versionName": "1.2.9",
-  "title": "新版来了v1.2.9",
-  "desc": "1新增Alist本地服务使用最新版本3.36.0前往我的里面开启\n2开启本地服务添加云存储使用内置浏览器管理或者使用本软件的网盘挂载功能播放网盘内影音",
+  "versionCode": 1019,
+  "versionName": "1.1.9",
+  "title": "新版来了v1.1.9",
+  "desc": "",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://pan.quark.cn/s/69bff3f18954",
-  "t": "/ CZ0001 ut4K3N1fYna/  ￥YEPjQ8pZ0gxm3bX5￥",
-  "showAd": true,
-  "showReadAd": true,
-  "dialog":    {
-      "title": "京东红包",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01IS88D92C4PsBlpsbG_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/C6QvrHs%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
-      "app": false,
-      "type": "app"
-    },
+  "url": "https://pan.quark.cn/s/0703d6248bb9",
+  "t": "",
+  "showAd": false,
+  "showReadAd": false,
   "cateList": [
     {
       "title": "意见反馈",
@@ -27,167 +20,64 @@
       "type": "web"
     },
     {
-      "title": "小说搜",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01BT1hme2C4PmT66fs0_!!913168420.png",
-      "url": "https://owllook2.yueing.org/",
+      "title": "书源",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+      "url": "",
       "app": true,
-      "type": "web"
+      "type": "web",
+      "cateList": [
+        {
+          "title": "单书源1",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+          "url": "https://shuyuan.yiove.com/complex?page=1&size=10&search_key=",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "综书源1",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+          "url": "https://shuyuan.yiove.com/normal",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "单书源2",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+          "url": "https://www.yckceo.com/yuedu/shuyuan/index.html",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "综书源2",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+          "url": "https://www.yckceo.com/yuedu/shuyuans/index.html",
+          "app": true,
+          "type": "web"
+        }
+      ]
     },
     {
-      "title": "影视搜",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
-      "url": "https://www.aikanbot.com/",
+      "title": "在线磁力",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
+      "url": "",
       "app": true,
-      "type": "web"
-    },
-    {
-      "title": "iptv搜",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
-      "url": "https://www.foodieguide.com/iptvsearch/",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "优惠搜",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01g9sN4p2C4PmRYqr6C_!!913168420.png",
-      "url": "https://quan.458962.xyz/?cid=yqhxAmc#/index/home",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "每日红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Mm1QDn2C4PmCI3gGj_!!913168420.png",
-      "url": "alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https%3A%2F%2Frender.alipay.com%2Fp%2Fc%2Falipay-red-qrcode%2Fshared.html%3Fchannel%3Dsearch_pwd%26shareId%3D2088802168454165%26token%3D11w14450xdwwhdaiakzxo61%26campStr%3DkPPFvOxaCL3f85TiKss2wsBZgIjulHjG%26sign%3DqsiVOoa7TuphryWxyBdONXsMTnE3jiIBvWeUs3yV1sw%3D%26chInfo%3DDingtalk%26c_stype%3Dsearch_pwd",
-      "app": false,
-      "type": "app"
-    },
-    {
-      "title": "京东红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/C6QvrHs%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
-      "app": false,
-      "type": "app"
-    },
-
-    {
-      "title": "淘宝红包",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01cKP4fe2C4Plafgbsc_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.gFOy3le",
-      "app": false,
-      "type": "app"
-    },
-
-    {
-      "title": "千万神券",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01jcm66V2C4PsCeeFYC_!!913168420.png",
-      "url": "pinduoduo://com.xunmeng.pinduoduo/duo_theme_activity.html?__page=duo_tenmillion_coupon&_pdd_fs=1&pid=1984046_236684576&tmcConfigId=771&customParameters=%7B%22uid%22%3A%22AAHi4hhoACZ_wldyykMmBj6d%22%2C%22sid%22%3A%22486945_111222%22%7D&cpsSign=TMC_241014_1984046_236684576_96220b1ceffbc95ad5b5ab4e6d2d29fb&_x_ddjb_act=%7B%22st%22%3A%22128%22%7D&duoduo_type=2",
-      "app": false,
-      "type": "app"
-    },
-    {
-      "title": "吃喝玩乐",
-      "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081152_7799",
-      "url": "https://2jjdetbp.jutuike.cn/#/?code=2JJDeTbp",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "薅羊毛",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01QNsmwl2C4Plpe5Dzb_!!913168420.png",
-      "url": "https://note.youdao.com/s/1GhpGzr5",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "0元购",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01vUOJQ02C4PonuIv2A_!!913168420.png",
-      "url": "https://maishou.link/cnDCS4",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "下载新版",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01nPIg4U2C4Plqb6dLJ_!!913168420.png",
-      "url": "https://pan.quark.cn/s/69bff3f18954",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "阅读排行",
-      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01UNXJXd2C4Ploj129P_!!913168420.png",
-      "url": "https://read.douban.com/charts",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "畅销书",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://quan.458962.xyz/?cid=yqhxAmc#/search?keyword=%E7%95%85%E9%94%80%E4%B9%A6",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "小说书源",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
-      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/1b8256c78b385543b5e8aa6a0d7693c76f8e60d4.json",
-      "app": false,
-      "type": "book"
-    },
-    {
-      "title": "听书书源",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
-      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/fc28a47b1f7708cec14b586981f4be76e30d20c8.json",
-      "app": false,
-      "type": "book"
-    },
-    {
-      "title": "在线书源",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://yuedu.miaogongzi.net/gx.html",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "在线书源",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://legado.aoaostar.com/",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "源仓库1",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://www.yckceo.com/yuedu/shuyuans/index.html",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "源仓库2",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://www.yckceo1.com/yuedu/shuyuans/index.html",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "源仓库3",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://www.e-yck.top/yuedu/shuyuans/index.html",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "磁力熊",
-      "pic": "https://www.cilixiong.com/favicon.png",
-      "url": "https://www.cilixiong.com",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "磁力6V",
-      "pic": "https://www.66s6.net/skin/66scc/images/logo.png",
-      "url": "https://www.xb6v.com/",
-      "app": true,
-      "type": "web"
+      "type": "web",
+      "cateList": [
+        {
+          "title": "6v",
+          "pic": "https://www.66s6.net/skin/66scc/images/logo.png",
+          "url": "https://www.66s6.net/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "磁力熊",
+          "pic": "https://www.cilixiong.com/skin/cili/logo.png?0619",
+          "url": "https://www.cilixiong.com/",
+          "app": true,
+          "type": "web"
+        }
+      ]
     }
   ]
 }
