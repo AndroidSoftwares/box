@@ -14,42 +14,42 @@
   "cateList": [
     {
       "title": "意见反馈",
-      "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/08/01/083e0473-0148-447d-a8cf-3362656c3b49?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
       "url": "https://support.qq.com/products/663282",
       "app": true,
       "type": "web"
     },
     {
       "title": "书源",
-      "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/09/09/5568631f-8bf2-4182-8885-8170237d6581?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01OTI3BF2C4PlpHm3CU_!!913168420.png",
       "url": "",
       "app": true,
       "type": "web",
       "cateList": [
         {
           "title": "单书源1",
-          "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/03/28/1e78ef75-4da5-4a1b-944d-e2038f69687c?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01OTI3BF2C4PlpHm3CU_!!913168420.png",
           "url": "https://shuyuan.yiove.com/complex?page=1&size=10&search_key=",
           "app": true,
           "type": "web"
         },
         {
           "title": "综书源1",
-          "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/03/19/dd8dc419-87f3-4304-8384-e391dbeaec95?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01OTI3BF2C4PlpHm3CU_!!913168420.png",
           "url": "https://shuyuan.yiove.com/normal",
           "app": true,
           "type": "web"
         },
         {
           "title": "单书源2",
-          "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/03/19/b17a96e0-3ac8-4662-b31e-aeb9c541b59d?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01OTI3BF2C4PlpHm3CU_!!913168420.png",
           "url": "https://www.yckceo.com/yuedu/shuyuan/index.html",
           "app": true,
           "type": "web"
         },
         {
           "title": "综书源2",
-          "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/03/19/be6141c2-8f98-4e17-b4ed-35786bd2703d?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01OTI3BF2C4PlpHm3CU_!!913168420.png",
           "url": "https://www.yckceo.com/yuedu/shuyuans/index.html",
           "app": true,
           "type": "web"
@@ -58,22 +58,82 @@
     },
     {
       "title": "在线磁力",
-      "pic": "https://pub-cdn-oss.chuangkit.com/materials/2024/09/09/7a97e87c-6dc4-4d41-af17-d237c7c784c2?imageMogr2%2Fthumbnail%2F200x%3E%2Fformat%2Fwebp",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN0103FXKr2C4Plron1Kx_!!913168420.png",
       "url": "",
       "app": true,
       "type": "web",
       "cateList": [
         {
           "title": "6v",
-          "pic": "https://www.66s6.net/skin/66scc/images/logo.png",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN0103FXKr2C4Plron1Kx_!!913168420.png",
           "url": "https://www.66s6.net/",
           "app": true,
           "type": "web"
         },
         {
           "title": "磁力熊",
-          "pic": "https://www.cilixiong.com/skin/cili/logo.png?0619",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN0103FXKr2C4Plron1Kx_!!913168420.png",
           "url": "https://www.cilixiong.com/",
+          "app": true,
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "短视频",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+      "url": "",
+      "app": true,
+      "type": "web",
+      "cateList": [
+        {
+          "title": "短视频",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+          "url": "",
+          "app": true,
+          "type": "shortVideo"
+        },
+        {
+          "title": "解析1",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+          "url": "https://api.spapi.cn/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "解析2",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+          "url": "https://qushuiyin.guijianpan.com/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "解析3",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+          "url": "https://www.jiexiapi.top/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "解析4",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01HrFWRc2C4PlqgdAub_!!913168420.png",
+          "url": "https://meipai.iiilab.com/",
+          "app": true,
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "在线影视",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01OVF6XB2C4Prqp10U8_!!913168420.png",
+      "url": "",
+      "app": true,
+      "type": "web",
+      "cateList": [
+        {
+          "title": "爱看",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01OVF6XB2C4Prqp10U8_!!913168420.png",
+          "url": "https://v.aikanbot.com/",
           "app": true,
           "type": "web"
         }
