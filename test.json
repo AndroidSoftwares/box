@@ -1,8 +1,16 @@
 
 {
-  "spider": "https://mirror.ghproxy.com/https://github.com/AndroidSoftwares/box/blob/main/box.jar;md5;b843ca5fe931eacd801d67a177bf8280",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+    {
+      "key": "新6v",
+      "name": "新6v[磁力]",
+      "type": 3,
+      "api": "csp_Xb6v,
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "七夜",
       "name": "七夜[阿里]",
@@ -60,6 +68,6 @@
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
     }
-
+  ]
 
 }
