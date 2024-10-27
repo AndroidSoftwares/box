@@ -1,0 +1,65 @@
+
+{
+  "spider": "https://mirror.ghproxy.com/https://github.com/AndroidSoftwares/box/blob/main/box.jar;md5;b843ca5fe931eacd801d67a177bf8280",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "七夜",
+      "name": "七夜[阿里]",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "易搜[阿里]",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "云搜",
+      "name": "云搜[阿里]",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盘搜",
+      "name": "盘搜[阿里]",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "纸条",
+      "name": "纸条[阿里]",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盘搜",
+      "name": "盘搜[阿里]",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "找资源",
+      "name": "找资源[阿里]",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    }
+
+
+}
