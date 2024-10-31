@@ -9,8 +9,8 @@
   "app": false,
   "url": "https://pan.quark.cn/s/0703d6248bb9",
   "t": "",
-  "showAd": false,
-  "showReadAd": false,
+  "showAd": true,
+  "showReadAd": true,
   "cateList": [
     {
       "title": "意见反馈",
