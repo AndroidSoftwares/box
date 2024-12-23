@@ -1,14 +1,14 @@
 {
-  "versionCode": 1029,
-  "versionName": "1.2.9",
-  "title": "新版来了v1.2.9",
-  "desc": "1新增Alist本地服务使用最新版本3.36.0前往我的里面开启\n2开启本地服务添加云存储使用内置浏览器管理或者使用本软件的网盘挂载功能播放网盘内影音",
+  "versionCode": 1033,
+  "versionName": "1.3.3",
+  "title": "新版来了v1.3.3",
+  "desc": "1同步\n2立即去广告连续点击首页Google 10次\n3修复扫码闪退以及已知问题\n",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://pan.quark.cn/s/69bff3f18954",
-  "t": "2$i4fY3C6Ht04$:// HU7679  ￥JEEIqD5DVxJPyQXd￥",
+  "url": "https://pan.quark.cn/s/f0b3258b8ca1",
+  "t": "/ CZ0001 08j43zbHrsm/  ￥G2GAiFhxIhiDRumP￥",
   "showAd": true,
   "showReadAd": true,
   "cateList": [
@@ -78,7 +78,7 @@
     {
       "title": "下载新版",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01nPIg4U2C4Plqb6dLJ_!!913168420.png",
-      "url": "https://pan.quark.cn/s/69bff3f18954",
+      "url": "https://pan.quark.cn/s/f0b3258b8ca1",
       "app": true,
       "type": "web"
     },
