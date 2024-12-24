@@ -13,6 +13,13 @@
   "showReadAd": true,
   "cateList": [
     {
+      "title": "每日红包",
+      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
+      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/sO7MfcH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
+      "app": false,
+      "type": "app"
+    },
+    {
       "title": "意见反馈",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
       "url": "https://support.qq.com/products/663282",
