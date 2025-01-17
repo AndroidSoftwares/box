@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0",
-  "title": "新版来了v1.3.3",
-  "desc": "1同步\n2立即去广告连续点击首页Google 10次\n3修复扫码闪退以及已知问题\n4安装完卸载旧版",
+  "versionCode": 1034,
+  "versionName": "1.3.4",
+  "title": "新版来了v1.3.4",
+  "desc": "1同步\n2一键去广告连续点击首页Google 5次\n3安装完如果发现两个卸载旧版",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
