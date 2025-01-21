@@ -1,5 +1,5 @@
 {
-  "versionCode": 103,
+  "versionCode": 1034,
   "versionName": "1.3.4",
   "title": "新版来了v1.3.4",
   "desc": "1同步\n2一键去广告连续点击首页Google 5次\n3安装完如果发现两个卸载旧版",
@@ -7,18 +7,11 @@
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "https://pan.quark.cn/s/f0b3258b8ca1",
+  "url": "https://pan.quark.cn/s/0c4a07b0dd97",
   "t": "/ CZ0001 F2qLeXBox2O/  ！K6DEp8zDx4DUwMr9！",
   "showAd": true,
   "showReadAd": true,
   "cateList": [
-    {
-      "title": "每日红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01VNLJhC2C4PlYXWASF_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/sO7MfcH%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22sourceType%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
-      "app": false,
-      "type": "app"
-    },
     {
       "title": "意见反馈",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN019y7NcV2C4PmY9SqJY_!!913168420.png",
