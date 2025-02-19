@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1",
-  "title": "",
-  "desc": "",
+  "versionCode": 114,
+  "versionName": "1.1.4",
+  "title": "更新喽",
+  "desc": "1 优化看漫画\n2 修复视频自动下一集无法自动播放",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
@@ -31,7 +31,7 @@
         {
           "title": "版本更新",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01rogIc22C4PrjVEFYI_!!913168420.png",
-          "url": "https://pan.quark.cn/s/0c80affaa75e",
+          "url": "https://pan.quark.cn/s/095457e6748a",
           "app": true,
           "show": true,
           "type": "web"
