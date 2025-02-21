@@ -1,8 +1,8 @@
 {
-  "versionCode": 114,
-  "versionName": "1.1.4",
+  "versionCode": 115,
+  "versionName": "1.1.5",
   "title": "更新喽",
-  "desc": "1 优化看漫画\n2 修复视频自动下一集无法自动播放",
+  "desc": "1 优化看漫画\n2播放器增加选集\n3增加记忆播放\n",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
