@@ -31,6 +31,17 @@
         "password": "123456"
       }
       
+    },
+    {
+      "name": "本地",
+      "server": "http://127.0.0.1:5244",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "admin",
+        "password": "123456"
+      }
+      
     }
   ]
 }
