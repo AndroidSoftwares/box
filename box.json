@@ -129,6 +129,7 @@
       "changeable": 0,
       "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
     },
+    {"key": "py_emby", "name": "🍏 MisakaF┃Emby","type": 3, "api":"./py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "https://emby2.misakaf.org:443","username":"schfnrj","password":"a1995557","thread": 0,"proxy":""},"changeable": 1},
     {"key":"测试","name":"测试[py]","type":3,"api":"./py/py_emby.py"},
         {"key":"测试","name":"测试[py]","type":3,"api":"./py/py_emby_proxy.py"},
 {"key":"drpy_js_南瓜影视","name":"南瓜影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/南瓜影视.js"},
