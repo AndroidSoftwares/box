@@ -1,11 +1,4 @@
 {
-    "dialog":    {
-      "title": "淘宝红包",
-      "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1747206413_957085",
-      "url": "taobao://m.tb.cn/h.6rgelxg",
-      "app": false,
-      "type": "app"
-    },
   "versionCode": 2000,
   "versionName": "2.0.0",
   "title": "新版来了v2.0.0",
