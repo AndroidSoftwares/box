@@ -1,13 +1,13 @@
 {
-  "versionCode": 117,
-  "versionName": "1.1.7",
+  "versionCode": 118,
+  "versionName": "1.1.8",
   "title": "更新喽",
-  "desc": "1 优化看漫画\n2播放器增加选集\n3增加记忆播放\n4增加编辑书本封面图片跳转豆瓣长按图片复制链接",
+  "desc": "更更更 因包名有点问题卸载旧版",
   "cancel": "取消",
   "confirm": "确定",
   "canCancel": true,
   "app": false,
-  "url": "",
+  "url": "https://pan.quark.cn/s/095457e6748a",
   "t": "",
   "showAd": true,
   "showReadAd": true,
@@ -27,6 +27,14 @@
           "app": true,
           "show": true,
           "type": "sourceManager"
+        },
+        {
+          "title": "WebDav媒体",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01IQUY3a2C4ProxPjoI_!!913168420.png",
+          "url": "",
+          "app": true,
+          "show": true,
+          "type": "webdav"
         },
         {
           "title": "版本更新",
