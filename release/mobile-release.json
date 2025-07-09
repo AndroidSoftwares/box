@@ -1,7 +1,7 @@
 {
-  "code": 60,
-  "name": "0.6.0",
-  "desc": "修大BUG稳定可更\n断更",
+  "code": 61,
+  "name": "0.6.1",
+  "desc": "MPV内核增加 字幕 音轨选择\n因Alist被卖闹得沸沸扬扬 为安全考虑移除本地Alist服务\n移除无关权限更清爽\n安装完此版本MPV算是基本完结以后就真的断更了\n安装完移除旧版",
   "downloadUrl": "https://id4w1y2h0b.feishu.cn/docx/X0Xzdy0D5oDJO1x5fKIcwcGknOg"
 
 }
