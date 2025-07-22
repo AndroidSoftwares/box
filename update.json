@@ -12,12 +12,12 @@
   "showAd": true,
   "showReadAd": true,
   "dialog":    {
-      "title": "美团红包",
-      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01ppMGVA2C4PwxLNK3U_!!913168420.png",
-      "url": "imeituan://www.meituan.com/takeout/browser?inner_url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DCQMEy79zH-Ra&lch=cps:mtlm:10:a1ffe7abd8bb4af1ba93971888e2cb8a:hf_11_111222:7:1688457113497915490",
-      "app": false,
-      "type": "app"
-    },
+    "title": "美团红包",
+    "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01ppMGVA2C4PwxLNK3U_!!913168420.png",
+    "url": "imeituan://www.meituan.com/takeout/browser?inner_url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DCQMEy79zH-Ra&lch=cps:mtlm:10:a1ffe7abd8bb4af1ba93971888e2cb8a:hf_11_111222:7:1688457113497915490",
+    "app": false,
+    "type": "app"
+  },
   "cateList": [
     {
       "title": "意见反馈",
@@ -27,18 +27,64 @@
       "type": "web"
     },
     {
-      "title": "搜书吧",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01BT1hme2C4PmT66fs0_!!913168420.png",
-      "url": "https://www.soshuba.net/",
+      "title": "在线磁力",
+      "pic": "",
+      "url": "",
       "app": true,
-      "type": "web"
+      "type": "web",
+      "cateList": [
+        {
+          "title": "音丝范",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://www.yinfans.me/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "新6V",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://www.xb6v.com/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "磁力熊",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://www.cilixiong.org/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "电影港",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://www.dygangs.org/",
+          "app": true,
+          "type": "web"
+        }
+      ]
     },
     {
-      "title": "影视搜",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
-      "url": "https://v.ikanbot.com/",
+      "title": "在线影视",
+      "pic": "",
+      "url": "",
       "app": true,
-      "type": "web"
+      "type": "web",
+      "cateList": [
+        {
+          "title": "爱看综合",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://v.ikanbot.com/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "低端影视",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
+          "url": "https://ddys.pro/",
+          "app": true,
+          "type": "web"
+        }
+      ]
     },
     {
       "title": "iptv搜",
