@@ -11,6 +11,13 @@
   "t": "",
   "showAd": true,
   "showReadAd": true,
+  "dialog":    {
+      "title": "美团红包",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01ppMGVA2C4PwxLNK3U_!!913168420.png",
+      "url": "imeituan://www.meituan.com/takeout/browser?inner_url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DCQMEy79zH-Ra&lch=cps:mtlm:10:a1ffe7abd8bb4af1ba93971888e2cb8a:hf_11_111222:7:1688457113497915490",
+      "app": false,
+      "type": "app"
+    },
   "cateList": [
     {
       "title": "意见反馈",
