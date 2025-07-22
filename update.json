@@ -75,9 +75,25 @@
     {
       "title": "iptv搜",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
-      "url": "https://www.foodieguide.com/iptvsearch/",
+      "url": "",
       "app": true,
-      "type": "web"
+      "type": "web",
+      "cateList": [
+        {
+          "title": "央视直播",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
+          "url": "https://tv.cctv.com/live/",
+          "app": true,
+          "type": "web"
+        },
+        {
+          "title": "iptv搜",
+          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
+          "url": "https://www.foodieguide.com/iptvsearch/",
+          "app": true,
+          "type": "web"
+        }
+      ]
     },
     {
       "title": "优惠搜",
