@@ -28,7 +28,7 @@
     },
     {
       "title": "在线磁力",
-      "pic": "",
+      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01IQUY3a2C4ProxPjoI_!!913168420.png",
       "url": "",
       "app": true,
       "type": "web",
@@ -41,23 +41,9 @@
           "type": "web"
         },
         {
-          "title": "新6V",
-          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
-          "url": "https://www.xb6v.com/",
-          "app": true,
-          "type": "web"
-        },
-        {
           "title": "磁力熊",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
           "url": "https://www.cilixiong.org/",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "电影港",
-          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01JZMeIq2C4PmT6G0Gd_!!913168420.png",
-          "url": "https://www.dygangs.org/",
           "app": true,
           "type": "web"
         }
