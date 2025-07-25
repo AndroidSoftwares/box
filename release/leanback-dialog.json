@@ -1,9 +1,9 @@
 {
-  "desc": "test",
+  "desc": "新版手机浏览器扫码下载",
   "cancel": "",
   "confirm": "确定",
   "showOneTime": false,
   "isQrCode": true,
-  "url": "https://www.baidu.com/",
-  "show": false
+  "url": "https://pan.quark.cn/s/8eb25f0829cf",
+  "show": true
 }
