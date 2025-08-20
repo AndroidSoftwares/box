@@ -11,13 +11,6 @@
   "t": "",
   "showAd": true,
   "showReadAd": true,
-  "dialog":    {
-    "title": "视频教程",
-    "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01ni0FNy2C4PwyZGM6W_!!913168420.png",
-    "url": "https://id4w1y2h0b.feishu.cn/docx/X63mdDiA7oSwPYxuCUOclYznnzh",
-    "app": false,
-    "type": "web"
-  },
   "cateList": [
     {
       "title": "视频教程",
