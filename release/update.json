@@ -37,5 +37,21 @@
       "app": true,
       "type": "web"
     }
+  ],
+  "cateGridList": [
+    {
+      "title": "意见反馈",
+      "pic": "https://images.maishou88.com/admin/buyer_circle_sc/20250307/20250307101647_6489.gif",
+      "url": "https://support.qq.com/products/488511",
+      "app": true,
+      "type": "web"
+    },
+    {
+      "title": "书源",
+      "pic": "https://images.maishou88.com/admin/buyer_circle_sc/20250306/20250306111351_4323.gif",
+      "url": "https://shuyuan.yiove.com/complex?page=1&size=10&search_key=",
+      "app": true,
+      "type": "web"
+    }
   ]
 }
