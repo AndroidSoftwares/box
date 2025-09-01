@@ -1,7 +1,7 @@
 {
-  "code": 62,
-  "name": "0.6.2",
-  "desc": "升级MPV播放器内核\nMPV播放器增加统计信息展示\n更加圆润的LOGO\n修复设置中更改MPV播放器无法使用\n已断更勿念",
+  "code": 63,
+  "name": "0.6.3",
+  "desc": "修复倍速显示不更新\nMPV支持跳过片头片尾，自动下一集\n升级quarkjs版本\n直播支持切换MPV播放器\n已断更勿念",
   "downloadUrl": "https://id4w1y2h0b.feishu.cn/docx/X0Xzdy0D5oDJO1x5fKIcwcGknOg"
 
 }
