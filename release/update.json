@@ -1,5 +1,11 @@
 { 
-
+  "dialog":    {
+      "title": "京东红包",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01QpN5yn2C4Ppn6truM_!!913168420.png",
+      "url": "https://u.jd.com/01pHbkY",
+      "app": true,
+      "type": "app"
+    },
   "t": "",
   "cateList": [
     {
