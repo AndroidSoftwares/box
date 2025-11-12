@@ -8,10 +8,9 @@
   "canCancel": true,
   "app": false,
   "url": "https://pan.quark.cn/s/0c4a07b0dd97",
-  "t": "/ CZ0001 ebS5fihjG5O/  ！RF9W9Dk9In7sMWFF！",
+  "t": "",
   "showAd": true,
   "showReadAd": true,
-
   "cateList": [
     {
       "title": "视频教程",
@@ -197,19 +196,6 @@
     }
   ],
  "cateGridList": [
-    {
-      "title": "京东红包",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01em2MaD2C4Py4aFyns_!!913168420.png",
-      "url": "openApp.jdMobile://virtual?params=%7B%22url%22:%22https://u.jd.com/0r0la1W%22,%22M_sourceFrom%22:%22h5auto%22,%22des%22:%22m%22,%22platformId%22:%22babel%22,%22msf_type%22:%22auto%22,%22sourceValue%22:%22babel-act%22,%22category%22:%22jump%22%7D",
-      "app": true,
-      "type": "app"
-    },
-    {
-      "title": "淘宝红包",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01WdSHxI2C4PyE85RF7_!!913168420.png",
-      "url": "taobao://m.tb.cn/h.S7Ods2C",
-      "app": true,
-      "type": "app"
-    }
+
 ]
 }
