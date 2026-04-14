@@ -107,14 +107,14 @@
       "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01dZPwdB2C4Q0Xs9zsA_!!913168420.webp",
       "url": "tbopen://m.taobao.com/tbopen/index.html?&action=ali.open.nav&module=h5&h5Url=https%3A%2F%2Fh5.ele.me%2Fminisite%2Fpages%2Findex-xsd%2Findex%3FisTab%3Dfalse%26disableNav%3DYES%26forceThemis%3Dtrue%26tfPos%3Dh5%26forbidRefineType%3DgoOut%26from%3Dminiapp.taobao%26channelInfo%3D%257B%2522subSubChannel%2522%253A%2522miniapp.taobao.et%2522%257D%26alsc_exsrc%3DES0006299852%26mdFrom%3D%26scene%3D8789cdf2232c4aca8d2679ad2577f7c5%26o2i_1st_clk%3D__CLICK_ID__",
       "app": true,
-      "type": "web"
+      "type": "app"
     },
     {
       "title": "每日红包",
       "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN0181X1el2C4Q0YHXYNt_!!913168420.webp",
       "url": "imeituan://www.meituan.com/takeout/browser?inner_url=http://dpurl.cn/GYeG9dgz",
       "app": true,
-      "type": "web"
+      "type": "app"
     },
     {
       "title": "下载新版",
