@@ -103,16 +103,16 @@
       "type": "web"
     },
     {
-      "title": "薅羊毛",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01QNsmwl2C4Plpe5Dzb_!!913168420.png",
-      "url": "https://note.youdao.com/s/1GhpGzr5",
+      "title": "每日红包",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01dZPwdB2C4Q0Xs9zsA_!!913168420.webp",
+      "url": "tbopen://m.taobao.com/tbopen/index.html?&action=ali.open.nav&module=h5&h5Url=https%3A%2F%2Fh5.ele.me%2Fminisite%2Fpages%2Findex-xsd%2Findex%3FisTab%3Dfalse%26disableNav%3DYES%26forceThemis%3Dtrue%26tfPos%3Dh5%26forbidRefineType%3DgoOut%26from%3Dminiapp.taobao%26channelInfo%3D%257B%2522subSubChannel%2522%253A%2522miniapp.taobao.et%2522%257D%26alsc_exsrc%3DES0006299852%26mdFrom%3D%26scene%3D8789cdf2232c4aca8d2679ad2577f7c5%26o2i_1st_clk%3D__CLICK_ID__",
       "app": true,
       "type": "web"
     },
     {
-      "title": "0元购",
-      "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01vUOJQ02C4PonuIv2A_!!913168420.png",
-      "url": "https://maishou.link/cnDCS4",
+      "title": "每日红包",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN0181X1el2C4Q0YHXYNt_!!913168420.webp",
+      "url": "imeituan://www.meituan.com/takeout/browser?inner_url=http://dpurl.cn/GYeG9dgz",
       "app": true,
       "type": "web"
     },
@@ -137,20 +137,7 @@
       "app": true,
       "type": "web"
     },
-    {
-      "title": "小说书源",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
-      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/1b8256c78b385543b5e8aa6a0d7693c76f8e60d4.json",
-      "app": false,
-      "type": "book"
-    },
-    {
-      "title": "听书书源",
-      "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01syKJ4O2C4PmLFb5Id_!!913168420.png",
-      "url": "legado://import/bookSource?src=https://jihulab.com/aoaostar/legado/-/raw/release/cache/fc28a47b1f7708cec14b586981f4be76e30d20c8.json",
-      "app": false,
-      "type": "book"
-    },
+
     {
       "title": "在线书源",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
@@ -175,7 +162,7 @@
     {
       "title": "书源仓库",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
-      "url": "https://shuyuan.yiove.com/normal",
+      "url": "https://shuyuan.yiove.com/book-source-collections?page=1&page_size=20",
       "app": true,
       "type": "web"
     },
