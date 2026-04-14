@@ -39,7 +39,14 @@
           "url": "https://www.cilixiong.org/",
           "app": true,
           "type": "web"
-        }
+        },
+    {
+      "title": "磁力6V",
+      "pic": "https://www.66s6.net/skin/66scc/images/logo.png",
+      "url": "https://www.xb6v.com/",
+      "app": true,
+      "type": "web"
+    }
       ]
     },
     {
@@ -82,7 +89,7 @@
       ]
     },
     {
-      "title": "隐藏优惠券",
+      "title": "搜优惠券",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01g9sN4p2C4PmRYqr6C_!!913168420.png",
       "url": "https://hdkcmsc77.kuaizhan.com/?cid=kzgQhhh4#/search",
       "app": true,
@@ -163,21 +170,6 @@
       "title": "书源仓库",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
       "url": "https://shuyuan.yiove.com/book-source-collections?page=1&page_size=20",
-      "app": true,
-      "type": "web"
-    },
-
-    {
-      "title": "磁力熊",
-      "pic": "https://www.cilixiong.com/favicon.png",
-      "url": "https://www.cilixiong.com",
-      "app": true,
-      "type": "web"
-    },
-    {
-      "title": "磁力6V",
-      "pic": "https://www.66s6.net/skin/66scc/images/logo.png",
-      "url": "https://www.xb6v.com/",
       "app": true,
       "type": "web"
     }
