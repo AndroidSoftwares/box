@@ -76,27 +76,34 @@
           "url": "https://v.ikanbot.com/",
           "app": true,
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "iptv搜",
-      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
-      "url": "",
-      "app": true,
-      "type": "web",
-      "cateList": [
+        },
         {
           "title": "央视直播",
           "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
           "url": "https://tv.cctv.com/live/",
           "app": true,
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "在线小说",
+      "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
+      "url": "",
+      "app": true,
+      "type": "web",
+      "cateList": [
+        {
+          "title": "ZLibrary",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN017TVnMc2C4Q0YzD53R_!!913168420.jpg",
+          "url": "https://zh.z-library.im/",
+          "app": true,
+          "type": "web"
         },
         {
-          "title": "iptv搜",
-          "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01V5dmnJ2C4PmOAOWg5_!!913168420.png",
-          "url": "https://www.foodieguide.com/iptvsearch/",
+          "title": "全本小说",
+          "pic": "",
+          "url": "https://www.quanben.io/",
           "app": true,
           "type": "web"
         }
@@ -158,8 +165,6 @@
       "app": true,
       "type": "web"
     },
-
-
     {
       "title": "在线书源",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN010P5z0R2C4PmTLyX2N_!!913168420.png",
@@ -182,7 +187,6 @@
       "type": "web"
     }
   ],
- "cateGridList": [
-
-]
+  "cateGridList": [
+  ]
 }
