@@ -27,6 +27,13 @@
       "type": "web",
       "cateList": [
         {
+          "title": "推荐脚本",
+          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN0102L5DG2C4Q0ZSDjxF_!!913168420.png",
+          "url": "https://my.feishu.cn/docx/FxoQdlRzAox1M4xiKxUcpRqgnlc?from=from_copylink",
+          "app": true,
+          "type": "web"
+        },
+        {
           "title": "Greasy",
           "pic": "",
           "url": "https://greasyfork.org/zh-CN/scripts",
