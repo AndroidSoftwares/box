@@ -20,57 +20,6 @@
       "type": "web"
     },
     {
-      "title": "油猴脚本",
-      "pic": "https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png",
-      "url": "",
-      "app": true,
-      "type": "web",
-      "cateList": [
-        {
-          "title": "推荐脚本",
-          "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN0102L5DG2C4Q0ZSDjxF_!!913168420.png",
-          "url": "https://my.feishu.cn/docx/FxoQdlRzAox1M4xiKxUcpRqgnlc?from=from_copylink",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "Greasy",
-          "pic": "",
-          "url": "https://greasyfork.org/zh-CN/scripts",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "User",
-          "pic": "",
-          "url": "https://www.userscript.zone/",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "Sleazy",
-          "pic": "",
-          "url": "https://sleazyfork.org/zh-CN",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "Zhao",
-          "pic": "",
-          "url": "https://www.zhaojiaoben.cn/",
-          "app": true,
-          "type": "web"
-        },
-        {
-          "title": "小猴",
-          "pic": "",
-          "url": "https://www.youxiaohou.com/",
-          "app": true,
-          "type": "web"
-        }
-      ]
-    },
-    {
       "title": "在线影视",
       "pic": "",
       "url": "",
